@@ -1,4 +1,4 @@
-package com.mkyong.android;
+package cc.cunbm.android;
 
 import android.app.Activity;
 import android.os.Bundle;
